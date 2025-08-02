@@ -1,3 +1,5 @@
+-- Write your PostgreSQL query statement below
+
 SELECT e.name
 FROM Employee e
 INNER JOIN
